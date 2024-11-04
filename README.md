@@ -1,2 +1,2 @@
 # Power_bi
-The Repository describes the dashboards developed using Power BI.
+The video_game_across_world dashboard developed by power bi tool , describes the sales of video game across world and company.
